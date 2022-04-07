@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo "project management in github" 
+
+
 arr[0]=$(<num1.txt)
 arr[1]=$(<num2.txt)
 
